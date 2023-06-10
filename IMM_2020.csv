@@ -1,8 +1,3 @@
-﻿"Población total, indicadores socioeconómicos, índice y grado de marginación por municipio, 2020",,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,
-Clave de la entidad federativa,Nombre de la entidad,Clave del municipio,Nombre del municipio,Población total,% Población de 15 años o más analfabeta ,% Población  de 15 años o más sin educación básica,% Ocupantes en viviendas particulares sin drenaje ni excusado,% Ocupantes en viviendas particulares sin energía eléctrica,% Ocupantes en viviendas particulares sin agua entubada,% Ocupantes en viviendas particulares con piso de tierra,% Viviendas particulares con hacinamiento,% Población en localidades con menos de 5 000 habitantes,% Población ocupada con ingresos menores a 2 salarios mínimos,"Índice de marginación, 2020","Grado de marginación, 2020","Índice de marginación normalizado, 2020",Lugar que ocupa en el contexto nacional
-,,,,,,,,,,,,,,,,,
 CVE_ENT,NOM_ENT,CVE_MUN,NOM_MUN,POB_TOT,ANALF,SBASC,OVSDE,OVSEE,OVSAE,OVPT,VHAC,PL.5000,PO2SM,IM_2020,GM_2020,IMN_2020,
 ,,,,,,,,,,,,,,,,,
 Nacional,,,,126 014 024,4.75,29.71,1.47,0.66,3.67,3.81,19.73,27.00,66.88,—,—,—,—
